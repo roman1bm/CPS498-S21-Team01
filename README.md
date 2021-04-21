@@ -14,7 +14,6 @@ Name | Role
 Colin Van Brabant | Stakeholder
 Taeho Kim | Developer
 Brendan Roman | Developer
-Luke Sutton | Developer
 Hannah Seccia | Developer
 Nathan Wisniewski | Developer
 
