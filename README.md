@@ -38,7 +38,7 @@ Brendan Roman: Wrote story script, cast characters, edited and implemented voice
 
 Hannah Seccia:
 
-Taeho Kim:
+Taeho Kim: Implement calculation of distance from submarine to target/ UI for showing it in submarine, level changing system with collision, UI for instruction of what kinds of keys can be used and how it works, Estimated work time: 40 Hours.
 
 Nathan Wisniewski:
 
