@@ -26,3 +26,20 @@ Nathan Wisniewski | Developer
 
 ## Installation
 temptext
+
+
+
+## Changes Needed
+  The main change needed to the project at the moment is to connect the game to the motion simulator. This was one of our goals near the beginning of the semester, and we have the code needed to do so, it just needs to be implemented correctly. We were focused on completing the game that this portion of the project was not done. Another change that is needed is the monster's AI and how it reacts to the flare system. In theory, the monster is supposed to go the opposite direction of the player when a flare is shot off. However, the monster does not even react to the flare at the moment, so to fix that would make the game more complete. Along with that, fixing the monster's ai so that it can also animate is something that needs to be done. At the moment the monster glides toward the player, but does not animate in any way. Fixing the animator for the monster would make the project look much more professional.
+  
+## Team Contributions
+
+Brendan Roman: Wrote story script, cast characters, edited and implemented voice files, small terrain additions and decorations. Wrote Vascript, VascriptTUTORIAL, SpawnFlare, SpawnMonster. Made changes to SubmarineHealthSystem, EvilFishMonsterAI, and CrascMonsterAI. Estimated work time: 50 Hours. 
+
+Hannah Seccia:
+
+Taeho Kim:
+
+Nathan Wisniewski:
+
+Colin Van Brabant:
