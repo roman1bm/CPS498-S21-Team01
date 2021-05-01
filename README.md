@@ -28,6 +28,8 @@ Nathan Wisniewski | Developer
 temptext
 
 
+## UI Snapshots
+![screenshot1](https://user-images.githubusercontent.com/56941469/116795135-b7331680-aaa0-11eb-8632-c2d8648cdcac.PNG)
 
 ## Changes Needed
   The main change needed to the project at the moment is to connect the game to the motion simulator. This was one of our goals near the beginning of the semester, and we have the code needed to do so, it just needs to be implemented correctly. We were focused on completing the game that this portion of the project was not done. Another change that is needed is the monster's AI and how it reacts to the flare system. In theory, the monster is supposed to go the opposite direction of the player when a flare is shot off. However, the monster does not even react to the flare at the moment, so to fix that would make the game more complete. Along with that, fixing the monster's ai so that it can also animate is something that needs to be done. At the moment the monster glides toward the player, but does not animate in any way. Fixing the animator for the monster would make the project look much more professional.
