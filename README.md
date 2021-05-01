@@ -34,6 +34,8 @@ temptext
 ![screenshot3](https://user-images.githubusercontent.com/56941469/116795194-21e45200-aaa1-11eb-8ea7-768978af74b3.PNG)
 ![screenshot4](https://user-images.githubusercontent.com/56941469/116795252-ab941f80-aaa1-11eb-94a6-23717a6c080c.PNG)
 ![screenshot5](https://user-images.githubusercontent.com/56941469/116795253-ad5de300-aaa1-11eb-9950-c91199e77f52.PNG)
+![screenshot6](https://user-images.githubusercontent.com/56941469/116795413-bef3ba80-aaa2-11eb-8437-791aa48ffd77.PNG)
+![screenshot7](https://user-images.githubusercontent.com/56941469/116795429-e480c400-aaa2-11eb-9aaa-7dcc0964ba1a.PNG)
 
 
 
