@@ -25,7 +25,14 @@ Nathan Wisniewski | Developer
 5. To have the atmosphere of the video game be frightening through sound and visual cues. 
 
 ## Installation
-temptext
+At the moment there is no installation available via Github. All code for the project is available here, but for installation please check our Unity Teams. 
+
+## Introduction
+
+Into the Abyss's main goal was to create a horror thriller game that relies on story and visual cues to make the players feel that they are in danger. This was the main vision that the team had going into production. However, one aspect of the game that was discussed constantly was whether this game would be in an arcade style or not. The idea of having this game being in an arcade style was a possibility as it would help making different levels and monsters that the player to explore with a more “collect an item” type of objective, but in the end, we decided against the idea, as we wanted to focus on making a game where the story takes the main stage. Another feature that was discussed at the beginning of the semester was having a radar inside of the submarine to help the player find items and crash sites, but we went with a distance to target system instead, as we though that the players could have more enjoyment exploring and trying to find information themselves with a simpler tool than having a radar that shows everything immediately. 
+
+Most of the other goals that we had at the beginning of the semester were focused on the motion simulator and other I/O devices. We had originally planned to also set up the game for use in the motion simulator this semester, but unfortunately due to time constraints with the actual development of the game we were unable to do so. We have implemented different abilities that each pilot can control, which are stated in the tutorial of the game, but at the moment the controls are set up for use on a keyboard and not quite ready for the simulator. However, with those small grievances known, the Into the Abyss team is very proud of what we have accomplished with this concept in just 4 months.
+
 
 
 ## UI Snapshots
