@@ -133,4 +133,4 @@ Taeho Kim: Implement calculation of distance from submarine to target/ UI for sh
 
 Nathan Wisniewski: Created logo, icon, and checkpoint image assets. Work on checkpoint system, alongside a balance submarine script. Work on foreground canvas animations, including checkpoint notifications, item pick-up notifications, and fade-in/fade-out transitions. Estimated work time: 35 hours.
 
-Colin Van Brabant:
+
