@@ -12,9 +12,9 @@ your submarine if caught.
 - **Installation**
 - **Introduction**
 - **Prototype Objectives and Functionality**
-* **Objectives**
-* **Implemented Features**
-* **Unimplemented Features**
+    - **Objectives**
+    - **Implemented Features**
+    - **Unimplemented Features**
 - **UI Snapshots**
 - **Changes Needed**
 - **Team Contributions**
