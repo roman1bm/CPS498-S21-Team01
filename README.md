@@ -7,17 +7,17 @@ The main goal of the game is to navigate the deep depths of the ocean while avoi
 your submarine if caught. 
 
 ## Table of Contents
--**Team**
--**Goals**
--**Installation**
--**Introduction**
--**Prototype Objectives and Functionality**
---**Objectives**
---**Implemented Features**
---**Unimplemented Features**
--**UI Snapshots**
--**Changes Needed**
--**Team Contributions**
+- **Team**
+- **Goals**
+- **Installation**
+- **Introduction**
+- **Prototype Objectives and Functionality**
+-- **Objectives**
+-- **Implemented Features**
+-- **Unimplemented Features**
+- **UI Snapshots**
+- **Changes Needed**
+- **Team Contributions**
 
 ## Team
 
