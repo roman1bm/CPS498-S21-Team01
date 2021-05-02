@@ -6,6 +6,18 @@ Into the Abyss is a horror/thriller video game that will be created to use in a 
 The main goal of the game is to navigate the deep depths of the ocean while avoiding large monsters that will destroy
 your submarine if caught. 
 
+## Table of Contents
+-**Team**
+-**Goals**
+-**Installation**
+-**Introduction**
+-**Prototype Objectives and Functionality**
+--**Objectives**
+--**Implemented Features**
+--**Unimplemented Features**
+-**UI Snapshots**
+-**Changes Needed**
+-**Team Contributions**
 
 ## Team
 
