@@ -33,7 +33,48 @@ Into the Abyss's main goal was to create a horror thriller game that relies on s
 
 Most of the other goals that we had at the beginning of the semester were focused on the motion simulator and other I/O devices. We had originally planned to also set up the game for use in the motion simulator this semester, but unfortunately due to time constraints with the actual development of the game we were unable to do so. We have implemented different abilities that each pilot can control, which are stated in the tutorial of the game, but at the moment the controls are set up for use on a keyboard and not quite ready for the simulator. However, with those small grievances known, the Into the Abyss team is very proud of what we have accomplished with this concept in just 4 months.
 
+## Prototype Objectives & Functionality
 
+**Objectives**
+Complete the Tutorial: In order to move forward in the game, the players must first complete a small tutorial of the controls for the submarine and move to the next section of the game
+
+Find the Missing Submarines: Scattered around the first level there are 3 missing submarines. The players must locate these submarines and retrieve their blackboxes to find out more information about what happened.
+
+Enter and Leave the Caves: Once all of the submarines are found, the player must enter a series of caves to find a final submarine. Once the final submarine is found, the players must escape the monster pursuing them and leave the caves.
+
+**Implemented Features**
+
+Voice Acting System: Scattered around the maps are objects that trigger both voice acting and subtitles. These help move the story forward and tell the players what to do next.
+
+Tutorial: A small tutorial made to show the players how to play the game. It consists mostly of a voice telling the player what keys to push
+
+Battery System: Some of the features used by the submarine require power. This battery system is used when certain abilities draw power, and stops these abilities when the power is out.
+
+Flare System: The flare system is used as a deterrant for the monster. If a flare is sent out while the monster is attacking, the monster should run away.
+
+Boost System: This helps the submarine go faster for a short period of time. Requires power:
+
+Pickup System: Used to pickup items like batteries. submarine must touch the item to pick it up.
+
+Distance System: Used to help the players find an item in range. This is used to find the downed submarines.
+
+Submarine Health System: Used to measure how many hits the submarine has taken from the monster. After a certain amount of hits, the submarine fades to black and the players start at a checkpoint or the beginning.
+
+Checkpoint System: Once the submarine makes it to a certain checkpoint scattered around the map, a small icon will appear showing that a checkpoint has been reached.
+
+UI Control System: Used for the tutorial to show the players visually what to press or move for abilites or for moving the submarine.
+
+Sub Balance System: Used to reset the submarine to default positioning.
+
+Monster AI: Used to control the monster. This affects how and when the monster attacks the players.
+
+**Unimplemented Features**
+
+VR: the submarine in VR was a concept that we kept throwing around during development, but we decided against creating a VR version of the game due to time. 
+
+Multiple Monsters: While 2 monsters are in the game that are ready to be implemented, we decided to only have one main monster in order to put more emphasis on it being dangerous.
+
+Radar: Instead of doing a radar system, we decided instead to do a distance to target system in order to limit the player's knowledge of where items are.
 
 ## UI Snapshots
 ![screenshot1](https://user-images.githubusercontent.com/56941469/116795135-b7331680-aaa0-11eb-8632-c2d8648cdcac.PNG)
