@@ -67,7 +67,7 @@ temptext
 
 Brendan Roman: Wrote story script, cast characters, edited and implemented voice files, small terrain additions and decorations. Wrote Vascript, VascriptTUTORIAL, SpawnFlare, SpawnMonster. Made changes to SubmarineHealthSystem, EvilFishMonsterAI, and CrascMonsterAI. Estimated work time: 50 Hours. 
 
-Hannah Seccia:
+Hannah Seccia: Programmed the health system and AI system, modeleds the prefab of disc box, seaweed, and the evil fish. Implemented the cutscene and wrote dialogue in that. Worked on the basis of the old level system. Estimated work hours: 50 hours
 
 Taeho Kim: Implement calculation of distance from submarine to target/ UI for showing it in submarine, level changing system with collision, UI for instruction of what kinds of keys can be used and how it works, Estimated work time: 40 Hours.
 
